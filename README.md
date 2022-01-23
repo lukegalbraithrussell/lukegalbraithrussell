@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello friend! You can call me Luke
+
+- 🛠️ Contractor for [EveryDeveloper](https://github.com/everydeveloper)
+- ✏️ Writer of [Some techy stuff](https://lukerussell.info/)
+- ☄️ Former student of [Professor Rembold's Asteroid Research](https://github.com/RemboldAsteroids) at Willamette University
 
 <!--
 **lukegalbraithrussell/lukegalbraithrussell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
