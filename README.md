@@ -1,6 +1,6 @@
 ### Hello friend! You can call me Luke
-
-- 🛠️ Contractor for [EveryDeveloper](https://github.com/everydeveloper)
+- 👨‍💻 Developer Content Writer at Slack
+- 🛠️ [EveryDeveloper](https://github.com/everydeveloper) alum
 - ✏️ Writer of [Some techy stuff](https://lukerussell.info/)
 - ☄️ Former student of [Professor Rembold's Asteroid Research](https://github.com/RemboldAsteroids) at Willamette University
 
