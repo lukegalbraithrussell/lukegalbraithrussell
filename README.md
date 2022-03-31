@@ -1,4 +1,4 @@
-### Hello friend! You can call me Luke
+### Hi pal! You can call me Luke
 - 👨‍💻 Developer Content Writer at Slack
 - 🛠️ [EveryDeveloper](https://github.com/everydeveloper) alum
 - ✏️ Writer of [Some techy stuff](https://lukerussell.info/)
