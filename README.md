@@ -1,5 +1,5 @@
 ### Hi pal! You can call me Luke
-- 👨‍💻 Developer Content Writer at [Slack](https://github.com/slackapi)
+- 👨‍💻 Senior Developer Content Writer at [Slack](https://github.com/slackapi)
 - ✏️ Former writer for [EveryDeveloper](https://github.com/everydeveloper)
 - ☄️ Former student of [Professor Rembold's Asteroid Research](https://github.com/RemboldAsteroids) at Willamette University
 
