@@ -1,5 +1,5 @@
 ### Hi pal! You can call me Luke
-- 👨‍💻 Senior Documentation Engineer at [Slack](https://github.com/slackapi)
+- 👨‍💻 Senior Docs Engineer at [Slack](https://github.com/slackapi)
 - ☄️ Former student of [Professor Rembold's Asteroid Research](https://github.com/RemboldAsteroids) at Willamette University
 
 <!--
